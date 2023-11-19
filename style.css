@@ -1,0 +1,65 @@
+.multicolortext 
+{
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.FootLisrec
+{
+    position: sticky;
+    background: linear-gradient(to left, violet, lightgreen, lightblue, lightyellow, orange, salmon );
+    padding: 15px;
+    margin-top: 30px;
+    bottom: 0;
+}
+
+hr
+{
+    height: 2px;
+    background-color: black;
+}
+
+h4
+{
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header
+{
+    background: linear-gradient(to top left, blue, skyblue);
+    border-radius: 90px;
+    width: 95%;
+    height: 15%;
+    margin-top: 10px;
+    float: none;
+}
+
+.header:hover
+{
+    background: linear-gradient(to top left, darkblue, blue);
+    border-radius: 90px;
+    width: 100%;
+    height: 16%;
+    float: none;
+}
+
+.color:hover
+{
+    background-image: linear-gradient(to left, violet, indigo, green, lightblue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.color
+{
+    font-family: 'Times New Roman', Times, serif;
+}
